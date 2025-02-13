@@ -1,0 +1,1 @@
+URI(UNIFORM RESOURCE IDENTIFIER): is a string of characters that identifies a resource . it produces address for a resource
